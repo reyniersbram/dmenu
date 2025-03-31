@@ -4,14 +4,20 @@ My personal dmenu configuration.
 
 ## Wow, did I write all that myself?
 
-Of course not! This project is based on patches from the suckless community and 
-can be found at [suckless.org](https://tools.suckless.org/dmenu/patches/).
+Of course not! This project is based on scripts and patches from the suckless
+community and can be found at
+[suckless.org](https://tools.suckless.org/dmenu/patches/).
 
 ### Patches
 
 | url | description |
 | --- | --- |
 
+### Scripts
+
+| url | description |
+| --- | --- |
+| [dmenu_run_history](https://tools.suckless.org/dmenu/scripts/dmenu_run_with_command_history/dmenu_run_history) | Sort run history based on usage frequency |
 
 ## Installation
 
