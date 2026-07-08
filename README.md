@@ -21,6 +21,10 @@ community and can be found at
 
 ## Installation
 
+### Build Dependencies
+
+Ubuntu: `sudo apt install libx11-dev libxinerama-dev libxft-dev`
+
 ```sh
 git clone git@github.com:reyniersbram/dmenu.git
 cd dmenu
